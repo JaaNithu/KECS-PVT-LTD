@@ -1,3 +1,2 @@
 # KECS Pvt Ltd
-
-# WordPress Theme for Construction Site
+WordPress Theme for Construction Site
